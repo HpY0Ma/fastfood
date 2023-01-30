@@ -1,0 +1,7 @@
+<div class="product-card__img-wrap">
+                            <img src="img/content/chicken-paella.jpg" alt="Салат" class="product-card__img">
+                        </div>
+                        <h3 class="product-card__title">Chicken Paella</h3>
+                        <div class="product-card__desc">
+                            We just don't make and sell food.Good food warms.
+                        </div>
