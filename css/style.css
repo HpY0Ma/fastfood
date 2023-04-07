@@ -414,3 +414,35 @@ img {
     left: 44%;
     transform: translate(-20%, -30%) rotate(65deg);
 }
+
+.footer {
+    padding: 125px 0px 140px;
+}
+.container {
+}
+.footer__container {
+}
+.footer__contanct {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+}
+.contact-link__text
+ {
+}
+.footer__menu {
+}
+.footer__menu-col {
+}
+.footer__menu-title {
+}
+.footer__menu-item {
+}
+.footer__menu-link {
+}
+.social {
+}
+.social_item {
+}
+.social__link {
+}
